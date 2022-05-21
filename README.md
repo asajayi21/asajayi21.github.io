@@ -1,2 +1,2 @@
-# asajayi21.github.com
+# asajayi21.github.io
 My web design pages.
