@@ -1,2 +1,2 @@
 # asajayi21.github.io
-My web design pages.
+My web design page.
